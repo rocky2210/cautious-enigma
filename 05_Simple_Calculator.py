@@ -1,9 +1,10 @@
+# Author :  Lila
+
 from tkinter import *
 
 root = Tk()
 # Title
 root.title("Simple calculator")
-
 
 # Inputbox
 inputField = Entry(root, width=35, bd=10)
